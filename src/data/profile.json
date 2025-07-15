@@ -1,0 +1,74 @@
+{
+  "name": "Lucas Silva",
+  "photo": "https://avatars.githubusercontent.com/u/114083832?v=4",
+  "job": "Data Analyst - Customer Experience - Telefonica Brasil (VIVO)",
+  "location": "Brasilía - DF",
+  "phone": "(61) 99699-4992",
+  "email": "lucca01silva@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "GIT",
+        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/git.png?raw=true"
+      },
+      {
+        "name": "Java",
+        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/java.png?raw=true"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/js.png?raw=true"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/postgresql.png?raw=true"
+      }
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+       {
+      "name": "Varios tipos de chats, conexão websocket.",
+      "url": "https://chat-wss-kutn.onrender.com/frontend/screen/Home/home-pag.html",
+      "github": true
+    },
+    {
+      "name": "aplicativo de gerenciamento de tarefas desenvolvido em Java, utilizando a interface gráfica Swing e JOptionPane.",
+      "url": "https://github.com/Lucca7r/ToDoListUni",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Data Analyst - Customer Experience - Telefonica Brasil (VIVO)",
+      "period": "Fev/2025 - atual",
+      "description": "🔹Atuação estratégica no time de dados da Diretoria de Experiência do Cliente (CE), analisando os sistemas que fazem a ponte entre os atendentes e os clientes da Vivo.🔹 Modelagem de dashboards utilizando Power BI com arquitetura hexagonal, com automação de fluxos de dados via Power BI Gateway."
+    },
+    
+    {
+      "name": "Data Analyst – Commercial Intelligence & Quality Telefonica Brasil (VIVO)",
+      "period": "Jun/2024 - Fev/2025",
+      "description": "🔹Responsável por relatórios analíticos personalizados para as equipes de vendas e qualidade comercial, com foco em KPIs.🔹 Desenvolvimento de dashboards executivos concisos e estratégicos para apoiar decisões da alta gestão.🔹 Criação de pipelines de dados escaláveis e robustos (ETL), integrando diversas fontes.🔹Monitoramento de ordens de serviço e automação de rotinas diárias com Python para aumentar a eficiência."
+    },
+    {
+      "name": "Estagiario - VIVO",
+      "period": "Ago2023 - Mai/2024",
+      "description": "🔹Gestão de acessos lógicos da força de vendas (própria e terceiros), garantindo conformidade com políticas internas e com a LGPD.🔹Extração e análise de dados estruturados dos sistemas da empresa para apoiar decisões executivas.🔹 Criação de dashboards e relatórios operacionais para monitoramento de performance dos sistemas, perfis e funcionalidades utilizadas.🔹 Investigação de falhas e indisponibilidades em sistemas, por meio da triagem de chamados e análise de logs."
+    },
+    {
+      "name": "Trainee - 7Sigth",
+      "period": "2022 - 2023",
+      "description": "Time de desing de software"
+    }
+  ]
+}
