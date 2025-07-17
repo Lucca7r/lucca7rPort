@@ -8,20 +8,28 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "GIT",
-        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/git.png?raw=true"
+        "name": "React",
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/react.png?raw=true"
       },
       {
         "name": "Java",
         "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/java.png?raw=true"
       },
       {
-        "name": "JavaScript",
-        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/js.png?raw=true"
+        "name": "Oracle",
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/oracledata.png?raw=true"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://github.com/Lucca7r/portifiloLucca/blob/main/data/imgs/postgresql.png?raw=true"
+        "name": "Python",
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/python.png?raw=true"
+      },
+      {
+        "name": "PowerBI",
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/New_Power_BI_Logo.svg.png?raw=true"
+      }, 
+      {
+        "name": "GoogleCloud",
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/Google-cloud.png?raw=true"
       }
     ],
     "softSkills": [
@@ -33,18 +41,20 @@
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR (Nativo)",
     "Inglês (intermediário)"
   ],
   "portfolio": [
        {
-      "name": "Varios tipos de chats, conexão websocket.",
-      "url": "https://chat-wss-kutn.onrender.com/frontend/screen/Home/home-pag.html",
+      "name": "NuriX Pro AI",
+      "url": "https://github.com/Lucca7r/NutriAi",
+      "description": "Aplicativo de apoio nutricional, onde o usuário pode registrar sua dieta atual (caso tenha acompanhamento profissional) ou receber orientações básicas de nutrição com base em perguntas guiadas.",
       "github": true
     },
     {
-      "name": "aplicativo de gerenciamento de tarefas desenvolvido em Java, utilizando a interface gráfica Swing e JOptionPane.",
-      "url": "https://github.com/Lucca7r/ToDoListUni",
+      "name": "Análise Comparativa de Desempenho entre Support Vector Machine e GPT",
+      "url": "https://github.com/Lucca7r/model_compare",
+      "description": "A classificação automática de textos é uma tarefa fundamental no Processamento de Linguagem Natural (PLN), essencial para a organização do crescente volume de dados digitais. Com a ascensão dos Modelos de Linguagem Grandes (LLMs), surge a questão de seu desempenho em comparação com algoritmos de aprendizado de máquina tradicionais, consolidados e de menor custo computacional. Este trabalho apresenta uma análise comparativa quantitativa entre um modelo Support Vector Machine (SVM) (Cortes & Vapnik, 1995), utilizando features TF-IDF (Salton, Wong & Yang, 1975), e a API do LLM GPT-4o mini, operando em modo zero-shot, para a tarefa de classificação de notícias do dataset AG News ",
       "github": true
     }
   ],
