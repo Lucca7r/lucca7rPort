@@ -11,10 +11,10 @@ function Portfolio({ portfolio }) {
       {portfolio.map((project) => (
         <li key={project.name}>
           <h3 className={project.github ? "github" : ""}> {project.name}</h3>
-          <a href={project.url} target="_black" rel="noopener noreferrer">
+          <a href={project.url} target="_blank" rel="noopener noreferrer">
             {project.url}
           </a>
-          <p className={project.description}>{project.description}</p>
+          <p>{project.description}</p>
         </li>
       ))}
     </ul>

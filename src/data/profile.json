@@ -8,7 +8,7 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "React",
+        "name": "React & React Native",
         "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/react.png?raw=true"
       },
       {
@@ -26,10 +26,10 @@
       {
         "name": "PowerBI",
         "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/New_Power_BI_Logo.svg.png?raw=true"
-      }, 
+      },
       {
         "name": "GoogleCloud",
-        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/Google-cloud.png?raw=true"
+        "logo": "https://github.com/Lucca7r/portfolioLucca/blob/main/data/imgs/googlecloud3.png?raw=true"
       }
     ],
     "softSkills": [
@@ -40,12 +40,49 @@
       "Organização"
     ]
   },
-  "languages": [
-    "Português BR (Nativo)",
-    "Inglês (intermediário)"
+  "Description": [
+    {
+      "summary": "Atualmente, atuo como Analista de Dados na equipe de Experiência do Cliente da Telefônica Brasil (Vivo), onde desenvolvo soluções analíticas para melhorar a eficiência operacional, a qualidade do atendimento e a experiência do usuário — com impacto direto em indicadores estratégicos como o NPS. Trabalho com modelagem de dashboards em Power BI utilizando arquitetura hexagonal, automação de fluxos de dados via Power BI Gateway e criação de procedures e views no SQL Server para garantir dados limpos e estruturados para análise."
+    }
   ],
+
+  "education": [
+    {
+      "name": "Bacharelado em Sistemas de Informação",
+      "institution": "Centro Universitario Euro-Americano(Unieuro)",
+      "period": "2022 - 2025"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Fundamentals: Core Infrastructure",
+      "institution": "Google Cloud",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/3Q2Z5X7F9K6B"
+    },
+    {
+      "name": "Python para Análise de Dados",
+      "institution": "Data Science Academy",
+      "url": "https://www.dio.me/certificate/4C0A1E8D"
+    },
+    {
+      "name": "Power BI: Dashboard e Relatórios",
+      "institution": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-0b1c2f8d-3e4f-4a5c-8b6c-9d7e2f8b6c9d/"
+    }
+  ],
+  "socialMedia": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Lucca7r/NutriAi"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lucas-silva-7r/"
+    }
+  ],
+  "languages": ["Português BR (Nativo)", "Inglês (B2 - Intermediário Avançado)"],
   "portfolio": [
-       {
+    {
       "name": "NuriX Pro AI",
       "url": "https://github.com/Lucca7r/NutriAi",
       "description": "Aplicativo de apoio nutricional, onde o usuário pode registrar sua dieta atual (caso tenha acompanhamento profissional) ou receber orientações básicas de nutrição com base em perguntas guiadas.",
@@ -64,21 +101,21 @@
       "period": "Fev/2025 - atual",
       "description": "🔹Atuação estratégica no time de dados da Diretoria de Experiência do Cliente (CE), analisando os sistemas que fazem a ponte entre os atendentes e os clientes da Vivo.🔹 Modelagem de dashboards utilizando Power BI com arquitetura hexagonal, com automação de fluxos de dados via Power BI Gateway."
     },
-    
+
     {
-      "name": "Data Analyst – Commercial Intelligence & Quality Telefonica Brasil (VIVO)",
+      "name": "Data Analyst – Commercial Intelligence & Quality - Telefonica Brasil (VIVO)",
       "period": "Jun/2024 - Fev/2025",
       "description": "🔹Responsável por relatórios analíticos personalizados para as equipes de vendas e qualidade comercial, com foco em KPIs.🔹 Desenvolvimento de dashboards executivos concisos e estratégicos para apoiar decisões da alta gestão.🔹 Criação de pipelines de dados escaláveis e robustos (ETL), integrando diversas fontes.🔹Monitoramento de ordens de serviço e automação de rotinas diárias com Python para aumentar a eficiência."
     },
     {
-      "name": "Estagiario - VIVO",
+      "name": "Estagiario - Telefonica Brasil (VIVO)",
       "period": "Ago2023 - Mai/2024",
       "description": "🔹Gestão de acessos lógicos da força de vendas (própria e terceiros), garantindo conformidade com políticas internas e com a LGPD.🔹Extração e análise de dados estruturados dos sistemas da empresa para apoiar decisões executivas.🔹 Criação de dashboards e relatórios operacionais para monitoramento de performance dos sistemas, perfis e funcionalidades utilizadas.🔹 Investigação de falhas e indisponibilidades em sistemas, por meio da triagem de chamados e análise de logs."
     },
     {
       "name": "Trainee - 7Sigth",
       "period": "2022 - 2023",
-      "description": "Time de desing de software"
+      "description": "Na 7Sight, empresa júnior da Unieuro, fui responsável por levantar requisitos diretamente com os clientes e transformar essas informações em soluções visuais. Utilizava o Figma para criar os protótipos e o design dos sistemas, garantindo alinhamento entre as expectativas do cliente e a equipe de desenvolvimento."
     }
   ]
 }

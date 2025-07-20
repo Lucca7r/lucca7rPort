@@ -10,8 +10,7 @@
 }
 
 body {
-  /*background-image: url("../img/fundouns.jpg");*/
-  background-color: #000;
+  background-image: url("../img/backgroundroxo.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -33,7 +32,6 @@ a:hover {
   border-radius: 1rem;
 }
 
-
 @media only screen and (min-width: 768px) {
   .main {
     max-width: 1024px;
@@ -45,11 +43,11 @@ a:hover {
     width: 70vw;
   }
 }
-
+/*
 @media (min-width: 1024px) {
    
 body {
     background-image: none;
     background-color: #000;
   }
-  }
+  }*/

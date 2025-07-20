@@ -10,8 +10,9 @@ import Header from "./components/Header";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
+import Languages from './components/Languages';
+import Description from './components/Description';
 
-// import Languages from './components/Languages';
 
 function App() {
   const [profile] = useState(profileData);
@@ -38,6 +39,9 @@ function App() {
         email={profile.email}
       />
 
+      <Description summary={profile.Description[0].summary} />
+
+
       <Acordeon title="Skills">
         {profile.skills ? (
           <Skills skills={profile.skills} />
@@ -47,18 +51,10 @@ function App() {
       </Acordeon>
 
       <Acordeon title="Idiomas">
-        {profile.languages ? (
-          <ul className="languages">
-            {profile.languages.map((language, index) => (
-              <li key={index}>{language}</li>
-            ))}
-          </ul>
-        ) : (
-          <p>Seção de Idiomas não encontrada nos dados.</p>
-        )}
+           <Languages languages={profile.languages} />    
       </Acordeon>
 
-      <Acordeon title="Portfolio">
+      <Acordeon title="Code & Research">
         <Portfolio portfolio={profile.portfolio} />
       </Acordeon>
 

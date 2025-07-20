@@ -11,8 +11,8 @@ function Experience({ experience }) {
       {experience.map((xp) => (
         <li key={xp.name}>
           <h3>{xp.name}</h3>
-          <p className={xp.period}>{xp.period}</p>
-          <p className={xp.description}>{xp.description}</p>
+          <p className="period">{xp.period}</p>
+          <p>{xp.description}</p>
         </li>
       ))}
     </ul>
