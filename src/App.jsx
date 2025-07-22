@@ -12,6 +12,7 @@ import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
 import Languages from './components/Languages';
 import Description from './components/Description';
+import DataPortfolio from './components/DataPortfolio';
 
 
 function App() {
@@ -56,6 +57,10 @@ function App() {
 
       <Acordeon title="Code & Research">
         <Portfolio portfolio={profile.portfolio} />
+      </Acordeon>
+
+      <Acordeon title="Data Portfolio">
+        <DataPortfolio dataPortfolio={profile.dataPortfolio} />
       </Acordeon>
 
       <Acordeon title="Experience">

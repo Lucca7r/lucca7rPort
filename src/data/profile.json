@@ -81,6 +81,23 @@
     }
   ],
   "languages": ["Português BR (Nativo)", "Inglês (B2 - Intermediário Avançado)"],
+  "dataPortfolio": [
+    {
+      "name": "Dashboard de Vendas Global",
+      "foto": "https://github.com/Lucca7r/BI-portfolio/raw/main/vendas-powerbi-global/DASH2.png",
+      "url": "https://github.com/Lucca7r/BI-portfolio/tree/main/vendas-powerbi-global",
+      "description": "📊 Analisar o desempenho global de vendas entre 2011 e 2014. Fornecer uma visão geográfica das operações por meio de mapa interativo. ",
+      "github": true
+    },
+
+    {
+      "name": "Dashboard de Comportamento de Compra",
+      "foto": "https://github.com/Lucca7r/BI-portfolio/raw/main/marketing-comportamento-clientes/dash4.png",
+      "url": "https://github.com/Lucca7r/BI-portfolio/tree/main/marketing-comportamento-clientes",
+      "description": "📊 Entender o comportamento de compra dos clientes com base em escolaridade, estado civil e composição familiar.",
+      "github": true
+    }
+  ],
   "portfolio": [
     {
       "name": "NuriX Pro AI",
