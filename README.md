@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   O projeto foi desenvolvido para ter acesso rapido as minhas informações e contatos .<br>
   </p>
   
-- [Acesse o projeto finalizado, online](https://lucca7r.github.io/portfolioLucca/)
+- [Acesse o projeto finalizado, online](https://lucca7r.github.io/lucca7rPort/)
 
 
 ## 👋 Licença
