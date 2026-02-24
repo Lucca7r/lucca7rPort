@@ -45,7 +45,6 @@
       "summary": "Atualmente, atuo como Analista de Dados na equipe de Experiência do Cliente da Telefônica Brasil (Vivo), onde desenvolvo soluções analíticas para melhorar a eficiência operacional, a qualidade do atendimento e a experiência do usuário — com impacto direto em indicadores estratégicos como o NPS. Trabalho com modelagem de dashboards em Power BI utilizando arquitetura hexagonal, automação de fluxos de dados via Power BI Gateway e criação de procedures e views no SQL Server para garantir dados limpos e estruturados para análise."
     }
   ],
-
   "education": [
     {
       "name": "Bacharelado em Sistemas de Informação",
@@ -80,7 +79,10 @@
       "url": "https://www.linkedin.com/in/lucas-silva-7r/"
     }
   ],
-  "languages": ["Português BR (Nativo)", "Inglês (B2 - Intermediário Avançado)"],
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (B2 - Intermediário Avançado)"
+  ],
   "dataPortfolio": [
     {
       "name": "Dashboard de Vendas Global",
@@ -89,7 +91,6 @@
       "description": "📊 Analisar o desempenho global de vendas entre 2011 e 2014. Fornecer uma visão geográfica das operações por meio de mapa interativo. ",
       "github": true
     },
-
     {
       "name": "Dashboard de Comportamento de Compra",
       "foto": "https://github.com/Lucca7r/BI-portfolio/raw/main/marketing-comportamento-clientes/dash4.png",
@@ -114,11 +115,15 @@
   ],
   "professionalExperience": [
     {
+      "name": "Data Engineer - Global Delivery Network Evelve - NTT Data",
+      "period": "Jan/2026 - Atual",
+      "description": "🔹 Atuo como consultor de Engenharia de Dados em clientes globais da NTT DATA, apoiando times na construção e evolução de plataformas de dados com boas práticas, automação e governança, utilizando AWS, Azure, Databricks e Terraform."
+    },
+    {
       "name": "Data Analyst - Customer Experience - Telefonica Brasil (VIVO)",
-      "period": "Fev/2025 - atual",
+      "period": "Fev/2025 - Jan/2026",
       "description": "🔹Atuação estratégica no time de dados da Diretoria de Experiência do Cliente (CE), analisando os sistemas que fazem a ponte entre os atendentes e os clientes da Vivo.🔹 Modelagem de dashboards utilizando Power BI com arquitetura hexagonal, com automação de fluxos de dados via Power BI Gateway."
     },
-
     {
       "name": "Data Analyst – Commercial Intelligence & Quality - Telefonica Brasil (VIVO)",
       "period": "Jun/2024 - Fev/2025",
