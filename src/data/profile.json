@@ -1,7 +1,7 @@
 {
   "name": "Lucas Silva",
   "photo": "https://avatars.githubusercontent.com/u/114083832?v=4",
-  "job": "Data Engineer - Global Delivery Network Evelve - NTT Data",
+  "job": "Data Engineer - Global Delivery Network Evolve - NTT Data",
   "location": "Brasilía - DF",
   "email": "lucca01silva@gmail.com",
   "skills": {
@@ -114,7 +114,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Data Engineer - Global Delivery Network Evelve - NTT Data",
+      "name": "Data Engineer - Global Delivery Network Evolve - NTT Data",
       "period": "Jan/2026 - Atual",
       "description": "🔹 Atuo como consultor de Engenharia de Dados em clientes globais da NTT DATA, apoiando times na construção e evolução de plataformas de dados com boas práticas, automação e governança, utilizando AWS, Azure, Databricks e Terraform."
     },
